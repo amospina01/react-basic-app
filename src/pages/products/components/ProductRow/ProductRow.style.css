@@ -1,0 +1,29 @@
+.ProductRow-container{
+    width: 98%;
+    margin: 0 auto;
+    min-height: 20px;
+    border: 1px solid red;
+    margin-top: 5px;
+    font-size: 13px;
+    
+}
+
+.ProductRow-container2{
+    width: 98%;
+    margin: 0 auto;
+    min-height: 20px;
+    border: 1px solid red;
+    margin-top: 5px;
+    font-size: 13px;
+    
+}
+
+.ProductRow-container3{
+    width: 98%;
+    margin: 0 auto;
+    min-height: 20px;
+    border: 1px solid red;
+    margin-top: 5px;
+    font-size: 12px;
+    font-weight: bold;
+}

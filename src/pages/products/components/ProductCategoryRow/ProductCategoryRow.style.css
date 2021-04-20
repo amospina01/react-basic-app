@@ -1,0 +1,11 @@
+.ProductCategoryRow-container{
+    width: 98%;
+    margin: 0 auto;
+    min-height: 10px;
+    border: 1px solid turquoise;
+    margin-top: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    
+    
+}
